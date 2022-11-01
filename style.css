@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(66, 16, 113, 0.723);
+}
+#cry{
+    font-weight: bold;
+    color: aliceblue;
+}
+#shyam{
+    color: aqua;
+    font-size: smaller;
+}
+#formc{
+    background-color: rgb(242, 255, 0);
+    padding-bottom: 20px;
+    }
+#tblreslt{
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+#trc{
+    background-color: blue;
+    font-weight: bold;
+    color: aliceblue;
+}
